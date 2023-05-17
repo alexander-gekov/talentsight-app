@@ -3,7 +3,7 @@
     <!-- Title -->
     <div class="text-6xl font-bold font-sans mb-4">I am looking for...</div>
     <!-- Search -->
-    <div class="flex w-1/2 gap-1">
+    <div class="flex w-1/2 gap-2">
       <UInput
         name="Search"
         icon="i-heroicons-magnifying-glass-20-solid"
@@ -31,6 +31,11 @@
 </template>
 
 <script setup lang="ts">
+definePageMeta({
+  middleware: "auth",
+  layout: "default",
+});
+
 const searchTerm = ref("");
 const keywords = ref<string[]>([]);
 
