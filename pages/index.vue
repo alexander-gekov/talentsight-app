@@ -15,6 +15,7 @@
         v-model="searchTerm"
         @keydown.enter="search"
         @keyup.,="addKeyword"
+        @keyup.space="addKeyword"
       />
       <UButton
         class="focus:outline focus:border-green-500 focus:outline-green-500"

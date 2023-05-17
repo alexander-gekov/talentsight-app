@@ -1,6 +1,6 @@
 <script setup lang="ts">
-const darkMode = ref(true);
 const colorMode = useColorMode();
+const darkMode = ref(colorMode.value === "dark");
 
 const { data, signOut } = useAuth();
 
