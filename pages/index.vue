@@ -98,7 +98,8 @@ const isLoading = ref(false);
 const searchResults = ref<any[]>([]);
 
 const addKeyword = () => {
-  const searchTermSplitted = searchTerm.value.split(",")[0].trim();
+  if (searchTerm.value.trim() === "") return;
+  const searchTermSplitted = searchTerm.value.split(",")[0];
   if (searchTerm.value && !keywords.value.includes(searchTermSplitted)) {
     keywords.value.push(searchTermSplitted);
     searchTerm.value = "";
@@ -118,7 +119,10 @@ const search = async () => {
   console.log("Searching...");
   setTimeout(function () {}, 5000);
   addKeyword();
-  if (keywords.value.length === 0) return;
+  if (keywords.value.length === 0) {
+    searchTerm.value = "";
+    return;
+  }
   searchPressed.value = true;
   isLoading.value = true;
   await getSearchResults();
