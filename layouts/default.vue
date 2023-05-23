@@ -1,8 +1,9 @@
 <template>
-  <UContainer class="h-screen">
+  <UContainer class="h-screen flex flex-col">
     <NavBar />
     <hr />
     <slot />
+    <Footer />
   </UContainer>
 </template>
 

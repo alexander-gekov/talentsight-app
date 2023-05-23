@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const colorMode = useColorMode();
-const darkMode = ref(colorMode.value === "dark");
+const darkModeOff = ref(colorMode.preference === "light");
 
 const { data, signOut } = useAuth();
 
@@ -34,10 +34,14 @@ const handleSignOut = async () => {
   navigateTo("/login");
 };
 
+onMounted(() => {
+  darkModeOff.value = colorMode.preference === "light";
+});
+
 watch(
-  () => darkMode.value,
+  () => darkModeOff.value,
   (value) => {
-    colorMode.value = value ? "dark" : "light";
+    colorMode.preference = value ? "light" : "dark";
   }
 );
 </script>
@@ -46,9 +50,9 @@ watch(
   <div class="flex items-center justify-between py-10">
     <!-- Logo -->
     <div class="flex items-center gap-4">
-      <NuxtLink to="/" class="font-bold text-2xl">
+      <a href="/" class="font-bold text-2xl">
         Talent<span class="text-green-500">Sight</span>
-      </NuxtLink>
+      </a>
       <span class="text-gray-400 text-4xl font-thin">/</span>
       <UDropdown :items="items" :popper="{ placement: 'bottom-start' }">
         <UButton
@@ -78,9 +82,9 @@ watch(
     <!-- User And Actions -->
     <div class="flex items-center gap-4">
       <UToggle
-        icon-off="i-heroicons-sun-20-solid"
-        icon-on="i-heroicons-moon-20-solid"
-        v-model="darkMode"
+        icon-on="i-heroicons-sun-20-solid"
+        icon-off="i-heroicons-moon-20-solid"
+        v-model="darkModeOff"
       />
       <UAvatar
         :src="
