@@ -1,5 +1,8 @@
 <template>
-  <UContainer class="h-screen flex flex-col">
+  <UContainer
+    :ui="{ constrained: 'max-w-[100rem]' }"
+    class="h-screen flex flex-col"
+  >
     <NavBar />
     <hr />
     <slot />

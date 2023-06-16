@@ -1,0 +1,316 @@
+{
+  "public_identifier": "aleksandar-gekov",
+  "profile_pic_url": "https://media.licdn.com/dms/image/C4E03AQGH3Hmf2RHmGg/profile-displayphoto-shrink_800_800/0/1638549384262?e=1692230400&v=beta&t=LUfVVrd3v-CjEg98YKEQfhcmoH9eZzFkeFwTk3Fr1TQ",
+  "background_cover_image_url": null,
+  "first_name": "Aleksandar",
+  "last_name": "Gekov",
+  "full_name": "Aleksandar Gekov",
+  "follower_count": null,
+  "occupation": "Software Developer at Axion BioSystems",
+  "headline": "Software Developer at Axion BioSystems",
+  "summary": "I am a final year sofware engineering student at Fontys UAS. I have a strong passion for code and strive to broaden my knowledge. I've been programming for almost 5 years and I am extremely passionate about building software that helps society, all I need is a laptop and my fingers. My dream is to start my own tech company in the future and connect with other entrepreneurs to make the world a better place together.\n\nI am constantly searching for ways to improve my skills, I am a fast learner. I invite you to look at my social accounts at https://linktr.ee/alexander_gekov.",
+  "country": "NL",
+  "country_full_name": "Netherlands",
+  "city": "Veldhoven",
+  "state": "North Brabant",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "България на младите ",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%BC%D0%BB%D0%B0%D0%B4%D0%B8%D1%82%D0%B5/",
+      "title": "Member",
+      "description": null,
+      "location": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFdLCcPXndqlQ/company-logo_400_400/0/1591636348876?e=1691020800&v=beta&t=ubdATtIW__6eLO-QEm2EyfZOZqS3xO0e-O3fxPAD1iA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "company": "Axion BioSystems",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/axion-biosystems/",
+      "title": "Software Engineer Intern",
+      "description": null,
+      "location": "Eindhoven, North Brabant, Netherlands",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/axion-biosystems/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230523%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230523T204815Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=10beaecf82a44ff9a42508a6d951b30fd2044ac2fd7e659068c62bf5535f760e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Axion BioSystems",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/axion-biosystems/",
+      "title": "Software Developer",
+      "description": null,
+      "location": "Eindhoven, North Brabant, Netherlands",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/axion-biosystems/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230523%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230523T204815Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=10beaecf82a44ff9a42508a6d951b30fd2044ac2fd7e659068c62bf5535f760e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2019
+      },
+      "company": "Technopolis Bulgaria",
+      "company_linkedin_profile_url": null,
+      "title": "Sales Consultant",
+      "description": null,
+      "location": "Sofia, Bulgaria",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      },
+      "field_of_study": "Computer Software Engineering",
+      "degree_name": "Bachelor of Applied Science - BASc",
+      "school": "Fontys University of Applied Sciences",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQHoPshjTmIrAg/company-logo_400_400/0/1519856033175?e=1691020800&v=beta&t=fnPjRzeLsfNV_pD20ayprqsS6_-931KMeAJSbRj3wcI",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "field_of_study": "Entrepreneurship/Entrepreneurial Studies",
+      "degree_name": "Exchange Semester",
+      "school": "Prague University of Economics and Business",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQECmoHvple3Xw/company-logo_400_400/0/1677492469528?e=1691020800&v=beta&t=6eVv1ibPgaGbEa4BaDz8RuHi0hhin3qy8WZRHEZkhEU",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2022
+      },
+      "field_of_study": "Startup School",
+      "degree_name": null,
+      "school": "Y Combinator",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/0/1673555092951?e=1691020800&v=beta&t=Xa3JQT8s6H29qgrz-OFg7KalC5eCjhxUvwy1JLg-ufk",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "field_of_study": "Sofware engineering",
+      "degree_name": null,
+      "school": "Software University (SoftUni)",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEApCWzd7I27g/company-logo_400_400/0/1519952435193?e=1691020800&v=beta&t=xH6Ng2p3mln-oF7iGX0MvAsj8GgsuGeekGmzU2Awxyg",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": ["Bulgarian", "Dutch", "English", "German"],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2022
+      },
+      "ends_at": null,
+      "name": "ABLE Weekend Activator",
+      "license_number": null,
+      "display_source": null,
+      "authority": "ABLE Activator",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2022
+      },
+      "ends_at": null,
+      "name": "Dutch For Beginners A1",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Flowently, Live & Online Language Sessions",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Cambridge English: Advanced (CAE)  C2",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Cambridge University Press & Assessment English",
+      "url": null
+    }
+  ],
+  "connections": null,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/jan-willem-van-bree-a395385",
+      "name": "Jan-Willem Van Bree",
+      "summary": "VP of R&D - Image Analysis Systems",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nenad-dragutinovic",
+      "name": "Nenad Dragutinovic",
+      "summary": "Software Engineer at Axion BioSystems",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mvdrheijden",
+      "name": "Miguel van der Heijden",
+      "summary": "Director of software development - Image analysis system at Axion BioSystems",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/joankrastanov",
+      "name": "Joan Krastanov",
+      "summary": "Software Developer at AxionBio",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/marairinacoman",
+      "name": "Mara Irina Coman",
+      "summary": "Software Engineer at CytoSMART Technologies",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivangermanov",
+      "name": "Ivan Germanov",
+      "summary": "Software Engineer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriel-george-992417168",
+      "name": "Gabriel George",
+      "summary": "Engenheiro Aeroespacial",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/borislav-pavlov",
+      "name": "Borislav Pavlov",
+      "summary": "Software Engineer at CytoSMART Technologies B.V.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/yordan-alipiev-695a35141",
+      "name": "Yordan Alipiev",
+      "summary": "Software Developer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jordan-radushev-76665b1a4",
+      "name": "Jordan Radushev",
+      "summary": "Go Developer",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "phone_numbers": [],
+  "social_networking_services": [],
+  "skills": [
+    "Vue.js",
+    "TypeScript",
+    "JavaScript",
+    "Nuxt.js",
+    "Node.js",
+    "Software Development",
+    "Front-end Development",
+    "React.js",
+    "C#",
+    ".NET Framework",
+    "ASP.NET",
+    "Docker",
+    "Microsoft Azure",
+    "Kubernetes",
+    "Web Applications",
+    "Agile Methodologies",
+    "Scrum",
+    "Object-Oriented Programming (OOP)",
+    "Laravel",
+    "Tailwind CSS"
+  ],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": {
+    "github_profile_id": null
+  },
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}
